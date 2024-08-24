@@ -2,7 +2,7 @@
 
 This project is a **Next.js** application that I built by following a tutorial from [YouTube](https://www.youtube.com/watch?v=TIbyO-bwdUs). The tutorial served as an inspiration and a learning guide, but the code and implementation were written by myself.
 
-You can see the live demo from [HERE](https://cafe-app-nextjs.vercel.app/).
+You can see the live demo [HERE](https://cafe-app-nextjs.vercel.app/)
 
 ## Acknowledgments
 
@@ -20,7 +20,7 @@ This is one framework that I **REALLY** got more curious about.
 * Framer Motion: I utilized Framer Motion to enhance the user interface with smooth animations. I implemented it in the header to create a seamless experience when **opening the hamburger menu** and displaying the menu text. Additionally, I used Framer Motion to create a parallax effect where a coffee mug moved at a different speed compared to the rest of the page, adding depth and visual interest.
 
 * GSAP (GreenSock Animation Platform): I used GSAP to implement a unique **horizontal scrolling effect** for the website, diverging from the typical vertical scroll. This involved learning how to control scroll-triggered animations and applying GSAP’s powerful tools to create a custom scrolling behavior that fit the design goals of the project.
-GSAP, you dirty dog. How can you be so damn cool?
+_GSAP, you dirty dog. How can you be so damn cool?_
 
 ## How to Run the Project On Your PC
 
