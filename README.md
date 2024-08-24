@@ -1,8 +1,8 @@
 # About This Project
 
-This project is a **Next.js** application that I built by following a tutorial from [YouTube](https://www.youtube.com/watch?v=TIbyO-bwdUs). The tutorial served as an inspiration and a learning guide, but the code and implementation were written by myself.
-
 You can see the live demo [HERE](https://cafe-app-nextjs.vercel.app/)
+
+This project is a **Next.js** application that I built by following a tutorial from [YouTube](https://www.youtube.com/watch?v=TIbyO-bwdUs). The tutorial served as an inspiration and a learning guide, but the code and implementation were written by myself.
 
 ## Acknowledgments
 
