@@ -50,7 +50,7 @@ After cloning the repository, install the necessary dependencies. You can use ei
 * Using npm
 `npm install`
 
-*using yarn
+* using yarn
 `yarn install`
 
 ### Running the Development Server
